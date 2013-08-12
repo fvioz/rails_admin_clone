@@ -1,4 +1,4 @@
 rails_admin_clone
 =================
 
-Clone Action
+Rails Admin Clone Action
